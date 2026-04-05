@@ -10,6 +10,7 @@ If you want to follow along, I'll be posting my learnings on [X](https://x.com/j
 
 What I plan to build (so far):
 - Vector database (Python)
+- Embeddings (Python)
 - MCP Client + Server (Python)
 - AI Agent (TypeScript + LangGraph)
 - API to consume the agent (TypeScript)
